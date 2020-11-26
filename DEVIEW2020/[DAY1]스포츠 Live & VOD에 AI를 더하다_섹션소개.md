@@ -12,30 +12,30 @@
 1. 스포츠 Live&VOD 목표
 - 사용자 가치 전달
 - 신속한 전달
-<br>
+
 2. 적용 서비스
 - KBO(국내 프로야구)
 - 축구(해외축구&K리그2)
 - 골프 & 생중계 광고 썸네일 제거
 - 언론 보도 현황
-<br>
+
 3. 시스템 아키텍처
 - 생중계 타임머신내 득점 위치 자동 표시
 - 경기 풀영상 타석별 보기
-<br>
+
 4. 관련 기반기술
 - Computer Vision
 - Action Recognition
 - Scene Classification
 - Live Text Synchronization
 -  Real-Time Analysis
-<br>
+
 5. 이슈 트러블슈팅
 - Pitch Motion 오인식
 - Object Detection 모델 변경
 - 스코어 자동인식 추가
 - 긴급 상황을 위한 Contingency Plan
-<br>
+
 6. 향후 리서치 공유
 - Player : Panoptic Segmentation & Player Tracking
 - Action : Pose Estimation & Action Prediction
